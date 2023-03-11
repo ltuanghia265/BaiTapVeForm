@@ -1,0 +1,16 @@
+Z:\2115241_LeTuanNghia\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csprojAssemblyReference.cache
+C:\Users\perfe\Downloads\2115241_LeTuanNghia\BaiTapThietKeForm\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.exe.config
+C:\Users\perfe\Downloads\2115241_LeTuanNghia\BaiTapThietKeForm\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.exe
+C:\Users\perfe\Downloads\2115241_LeTuanNghia\BaiTapThietKeForm\BaiTapThietKeForm\bin\Debug\BaiTapThietKeForm.pdb
+C:\Users\perfe\Downloads\2115241_LeTuanNghia\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.AssemblyReference.cache
+C:\Users\perfe\Downloads\2115241_LeTuanNghia\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\perfe\Downloads\2115241_LeTuanNghia\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai1.resources
+C:\Users\perfe\Downloads\2115241_LeTuanNghia\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai2.resources
+C:\Users\perfe\Downloads\2115241_LeTuanNghia\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmChinh.resources
+C:\Users\perfe\Downloads\2115241_LeTuanNghia\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.Properties.Resources.resources
+C:\Users\perfe\Downloads\2115241_LeTuanNghia\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.GenerateResource.cache
+C:\Users\perfe\Downloads\2115241_LeTuanNghia\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.csproj.CoreCompileInputs.cache
+C:\Users\perfe\Downloads\2115241_LeTuanNghia\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.exe
+C:\Users\perfe\Downloads\2115241_LeTuanNghia\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.pdb
+C:\Users\perfe\Downloads\2115241_LeTuanNghia\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai3.resources
+C:\Users\perfe\Downloads\2115241_LeTuanNghia\BaiTapThietKeForm\BaiTapThietKeForm\obj\Debug\BaiTapThietKeForm.frmBai4.resources

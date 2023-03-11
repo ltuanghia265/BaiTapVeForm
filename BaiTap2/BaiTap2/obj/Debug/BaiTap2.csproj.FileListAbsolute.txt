@@ -1,0 +1,14 @@
+C:\Users\perfe\source\repos\BaiTap2\BaiTap2\bin\Debug\BaiTap2.exe.config
+C:\Users\perfe\source\repos\BaiTap2\BaiTap2\bin\Debug\BaiTap2.exe
+C:\Users\perfe\source\repos\BaiTap2\BaiTap2\bin\Debug\BaiTap2.pdb
+C:\Users\perfe\source\repos\BaiTap2\BaiTap2\obj\Debug\BaiTap2.csproj.AssemblyReference.cache
+C:\Users\perfe\source\repos\BaiTap2\BaiTap2\obj\Debug\BaiTap2.csproj.SuggestedBindingRedirects.cache
+C:\Users\perfe\source\repos\BaiTap2\BaiTap2\obj\Debug\BaiTap2.frmChinh.resources
+C:\Users\perfe\source\repos\BaiTap2\BaiTap2\obj\Debug\BaiTap2.Properties.Resources.resources
+C:\Users\perfe\source\repos\BaiTap2\BaiTap2\obj\Debug\BaiTap2.csproj.GenerateResource.cache
+C:\Users\perfe\source\repos\BaiTap2\BaiTap2\obj\Debug\BaiTap2.csproj.CoreCompileInputs.cache
+C:\Users\perfe\source\repos\BaiTap2\BaiTap2\obj\Debug\BaiTap2.exe
+C:\Users\perfe\source\repos\BaiTap2\BaiTap2\obj\Debug\BaiTap2.pdb
+C:\Users\perfe\source\repos\BaiTap2\BaiTap2\obj\Debug\BaiTap2.frmBai1.resources
+C:\Users\perfe\source\repos\BaiTap2\BaiTap2\obj\Debug\BaiTap2.frmBai2.resources
+C:\Users\perfe\source\repos\BaiTap2\BaiTap2\obj\Debug\BaiTap2.frmBai3.resources
